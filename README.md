@@ -1,5 +1,5 @@
 {ola}
 
-meu nome é stoms22 
+meu nome é paulo
 estou estudando na ALURA
 estou me desenvolvendo na linguagem javaScript
